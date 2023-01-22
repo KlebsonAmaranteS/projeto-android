@@ -30,6 +30,8 @@ Projeto desenvolvido para teste de aprendizado.</p>
 
 Feito para teste de aprendizado, contando curiosidades sobre o Android.
 
+- [Acesse aqui o projeto online](https://klebsonamarantes.github.io/projeto-android)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
