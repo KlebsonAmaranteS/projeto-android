@@ -23,7 +23,6 @@ Projeto desenvolvido para teste de aprendizado.</p>
 ## 🚀 Tecnologias 
 
 - HTML e CSS
-- Javascript
 - Git e Github 
 
 ## 💻 Projeto
